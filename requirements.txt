@@ -1,0 +1,8 @@
+langgraph>=0.0.25
+langchain-ollama>=0.1.0
+langchain-core>=0.1.30
+ollama>=0.1.8
+
+
+
+pip3 install langgraph langchain-ollama langchain-core
